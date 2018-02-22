@@ -12,3 +12,4 @@ In postgres, a "titanic" database was created along with the "passengers" table.
 
 UPDATE:
 Included program to randomly generate 2000 records of data into the database. The .java file is located in the /app folder and the necessary dependencies are located in /lib.
+The jupyter notebook is also updated to reflect the changes in the "titanic" database.
